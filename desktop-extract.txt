@@ -1,0 +1,4 @@
+brave-browser.desktop
+discord
+firefox-nightly.desktop
+
