@@ -4,3 +4,6 @@
 */usr/share/icons/hicolor/*/firefox-nightly.png
 */etc/hosts
 */etc/NetworkManager/system-connections/*
+78d47bf8-fcfb-4eb8-8bab-14fdab8196a0/usr/share/applications/firefox-nightly.desktop
+78d47bf8-fcfb-4eb8-8bab-14fdab8196a0/usr/share/applications/mattermost.desktop
+78d47bf8-fcfb-4eb8-8bab-14fdab8196a0/usr/bin/firefox-nightly
