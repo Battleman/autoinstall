@@ -1,0 +1,6 @@
+/opt/*
+*/usr/bin/updateFF
+*/etc/apt/sources.list.d/google-chrome.list
+*/usr/share/icons/hicolor/*/firefox-nightly.png
+*/etc/hosts
+*/etc/NetworkManager/system-connections/*
